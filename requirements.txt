@@ -1,0 +1,9 @@
+jsonrpclib-pelix
+pika
+pymongo
+requests
+redis
+newspaper3k
+python-dateutil
+tensorflow
+pandas
